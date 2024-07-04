@@ -10,9 +10,9 @@ I am very excited to share my Microsoft Excel Project.
 Objective :-
 The Main objective of this project is to analyze the Road Accident in two different years. Finding Total Number of Casualties happened in Two years. Which helps in getting actionable insights that will helps in reducing Road accident by taking necessary measures.
 
-📌 Key Findings :-
+# 📌 Key Findings :-
 
-Primary KPI :-
+# Primary KPI :-
 
  1. Total Casualties      
  2. Fatal Casualties     
@@ -20,7 +20,7 @@ Primary KPI :-
  4. Slight Casualties     
  5. Total Casualties by Vehicle Type  
 
-Secondary KPI :-
+# Secondary KPI :-
 
  1. Current year Casualties vs Previous year Casualties by Monthly Trend     
  2. Casualties by Road Surface      
@@ -29,7 +29,7 @@ Secondary KPI :-
  5. Casualties by Light Condition    
 
 
-Conclusion of the Analysis :-
+# Conclusion of the Analysis :-
 
 When we see the analysis we get to know that the casualties are happened more on Car .
 When you compare the casualties between two year that is 2021 and 2022, The number of casualties is Decreasing in 2022 when you compared to 2021. Which is Good and in the month of October and November The Number of Casualties are More.
